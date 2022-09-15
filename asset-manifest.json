@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/toddle/static/css/main.3e84468a.css",
-    "main.js": "/toddle/static/js/main.9ec3f656.js",
+    "main.js": "/toddle/static/js/main.a74f3329.js",
     "index.html": "/toddle/index.html",
     "main.3e84468a.css.map": "/toddle/static/css/main.3e84468a.css.map",
-    "main.9ec3f656.js.map": "/toddle/static/js/main.9ec3f656.js.map"
+    "main.a74f3329.js.map": "/toddle/static/js/main.a74f3329.js.map"
   },
   "entrypoints": [
     "static/css/main.3e84468a.css",
-    "static/js/main.9ec3f656.js"
+    "static/js/main.a74f3329.js"
   ]
 }
